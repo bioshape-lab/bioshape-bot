@@ -1,0 +1,39 @@
+# JMLR
+http://www.jmlr.org/jmlr.xml
+http://proceedings.mlr.press/assets/rss/feed.xml
+# IEEE Computer Society
+https://csdl-api.computer.org/api/rss/periodicals/mags/co/rss.xml
+https://csdl-api.computer.org/api/rss/periodicals/mags/cs/rss.xml
+https://csdl-api.computer.org/api/rss/periodicals/trans/tb/rss.xml
+https://csdl-api.computer.org/api/rss/periodicals/trans/bd/rss.xml
+https://csdl-api.computer.org/api/rss/periodicals/trans/tp/rss.xml
+https://csdl-api.computer.org/api/rss/periodicals/trans/tg/rss.xml
+# SIAM
+https://epubs.siam.org/action/showFeed?jc=SIAGA&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?jc=SMJMAP&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?jc=SIIMS&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?jc=SIAP&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?jc=SICOMP&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?jc=SICON&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?jc=SIMODS&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?jc=SIMAX&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?jc=SIOPT&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?jc=SISC&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?jc=MMS&type=etoc&feed=rss
+# Nature & Science
+http://feeds.nature.com/nature/rss/current
+http://feeds.nature.com/ncomms/rss/current
+http://feeds.nature.com/sdata/rss/current
+http://feeds.nature.com/srep/rss/current
+http://advances.sciencemag.org/rss/current.xml
+http://science.sciencemag.org/rss/express.xml
+# Wiley
+# Elsevier
+# AIP, APS
+# Preprints
+http://export.arxiv.org/rss/cs
+http://export.arxiv.org/rss/math
+http://export.arxiv.org/rss/stat
+http://export.arxiv.org/rss/eess
+
+# Biorxiv
